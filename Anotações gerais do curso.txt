@@ -1,0 +1,8 @@
+## Local para anotações gerais do curso de Git/GitHub
+
+- O Git Bash é um terminal extendido para otimizar o uso do Git.
+- Quando for criar um arquivo com o comando echo usar a sintase: echo > 'nome-do-arquivo.extensao' -> Dai ele cria o arquivo válido.
+
+
+
+
