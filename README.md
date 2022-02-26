@@ -1,3 +1,5 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO.
+# Desafio de Projeto sobre Git/GitHub
+Repositório criado para o Desafio de projeto sobre git/github bootcamp GFT da DIO.
 
-Desafio de projeto sobre git / github bootcamp GFT
+## Links Úteis
+[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
